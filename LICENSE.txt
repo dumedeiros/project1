@@ -1,1 +1,1 @@
-Licensa txt
+GPL
