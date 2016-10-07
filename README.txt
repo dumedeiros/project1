@@ -1,1 +1,3 @@
-MEU README
+# Instalação && execução
+para compile 
+
