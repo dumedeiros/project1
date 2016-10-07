@@ -1,3 +1,0 @@
-# Instalação && execução
-para compile 
-
